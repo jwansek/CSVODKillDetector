@@ -1,0 +1,3 @@
+[submodule "fix-extraneous-bytes-before-marker"]
+	path = fix-extraneous-bytes-before-marker
+	url = https://github.com/aapris/fix-extraneous-bytes-before-marker.git
